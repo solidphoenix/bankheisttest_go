@@ -1,37 +1,55 @@
-## Welcome to GitHub Pages
+<h1 align="center"> BANKHEIST </h1> <br>
+<p align="center">
+  <a href="https:https://github.com/solidphoenix/bankheisttest_go/blob/master/main.go">
+    <img alt="GitPoint" title="BANKHEIST" src="https://www.seekpng.com/png/full/208-2084541_thief-robber-png-cartoon-bank-robber-png.png" width="450">
+  </a>
+</p>
 
-You can use the [editor on GitHub](https://github.com/solidphoenix/bankheisttest_go/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<p align="center">
+  A program to give beginners a dive into conditionals
+</p>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+## Table of Contents
 
-### Markdown
+- [Introduction](#introduction)
+- [Features](#features)
+- [Feedback](#feedback)
+- [Contributors](#contributors)
+- [Build Process](#build-process)
+- [Backers](#backers-)
+- [Sponsors](#sponsors-)
+- [Acknowledgments](#acknowledgments)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-```markdown
-Syntax highlighted code block
+## Introduction
 
-# Header 1
-## Header 2
-### Header 3
+When you run go run main.go command, Go compiler first compiles the main.go file and then executes the resultant binary code. You can output a binary file from a Go program or package using go build <package-name> (main package) or go build program/path.go in you command-line.
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Features
 
-**Bold** and _Italic_ and `Code` text
+A few of the things you can do with bankheisttest_go:
 
-[Link](url) and ![Image](src)
-```
+  - understand if, else, is else, switch - case conditions
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Feedback
 
-### Jekyll Themes
+Feel free to send me feedback or [file an issue](https://github.com/solidphoenix/bankheisttest_go/issues/new). Feature requests are always welcome.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/solidphoenix/bankheisttest_go/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+If there's anything you'd like to chat about, please feel free to pm me! I am open for questions.
 
-### Support or Contact
+## Contributors
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project can be used, edited, executed by everyone who wants to.
+
+## Build Process
+
+Get the main.go out of the responsitorie and import it into an IDE with an compiler which supports Go.
+
+
+## Acknowledgments
+
+Thanks to [GitHub](https://www.github.com) for supporting this project by giving the platform to share the work.
