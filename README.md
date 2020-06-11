@@ -23,7 +23,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Introduction
-<img alt="golang" title="GoProgramminflanguage" src=" "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png" width=500">
+ <img alt="golang" title="Go-Programminglanguages" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1920px-Go_Logo_Blue.svg.png" width="450">
 
 When you run go run main.go command, Go compiler first compiles the main.go file and then executes the resultant binary code. You can output a binary file from a Go program or package using go build <package-name> (main package) or go build program/path.go in you command-line.
 
