@@ -33,7 +33,7 @@ When you run go run main.go command, Go compiler first compiles the main.go file
 
 A few of the things you can do with bankheisttest_go:
 
-  - understand if, else, is else, switch - case conditions
+  - understand if, else, if else, switch - case conditions
 
 ## Feedback
 
