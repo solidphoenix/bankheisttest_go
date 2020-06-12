@@ -16,7 +16,7 @@
 - [Introduction](#introduction)
 - [Features](#features)
 - [Feedback](#feedback)
-- [Copyright](#copyright)
+- [Copyright](#contributor)
 - [Build Process](#build-process)
 - [Acknowledgments](#acknowledgments)
 
