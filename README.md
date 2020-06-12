@@ -41,7 +41,7 @@ Feel free to send me feedback or [file an issue](https://github.com/solidphoenix
 
 If there's anything you'd like to chat about, please feel free to pm me! I am open for questions.
 
-## Contributors
+## Copyright
 
 This project can be used, edited, executed by everyone who wants to.
 
